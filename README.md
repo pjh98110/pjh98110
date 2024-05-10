@@ -63,7 +63,10 @@ header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100
 - SQL
 - Streamlit
 
-
+## 노션 링크(더 자세한 포트폴리오)
+- https://immediate-wholesaler-570.notion.site/7b3e85ab194c4b4b890a5f06995cad6b
+<br/>
+<br/>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=pjh98110)](https://github.com/pjh98110)
 
