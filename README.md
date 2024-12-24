@@ -8,6 +8,9 @@ header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100
 ## 👨 Profile
 - 👶 생년월일: 1998년 11월 10일
 - 👨‍🎓 한림대학교 졸업 (2017.03 ~ 2024.08.)
+  - 전공: 경영학과/사회혁신경영융합
+- 🏢 한국사회보장정보원 데이터개방부 일경험 수련생 (2022.09 ~ 2023.02.)
+- 👮 성북경찰서 소집해제 (2019.01. ~ 2020.11.)
 - 🏫 청량고등학교 졸업 (2015.03. ~ 2017.02.)
 
 ## 💡 Contact
@@ -93,7 +96,12 @@ header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100
 - Large Language Models (LLM)
 - Web Crawling
 - SQL
+- Tableau
+- Q-GIS
 - Streamlit
+- Chat Bot(GPT, Gemini)
+- Prompt Engineering
+- Fine-Tuning
 
 ## 노션 링크(더 자세한 포트폴리오)
 - 
