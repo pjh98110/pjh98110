@@ -14,10 +14,11 @@ header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100
 - 🏫 청량고등학교 졸업 (2014.03. ~ 2017.02.)
 
 ## 💡 Contact
-- 📭 pjh98110@naver.com
-- 📞 010-5660-4638
+- 📭 pjh11098@gmail.com
+- 📞 
 
 ## 🎓 Completion of Education
+- 「LG AI Research」LG Aimers 7기 (2025.07.01. ~ 진행중)
 - 「Google」 구글 머신러닝 부트캠프 2024 (2024.06.28. ~ 2024.10.04.)
 - 「멀티캠퍼스」 금융&마케팅데이터분석취업캠프 수료 (2023.04.24. ~ 2023.10.06.)
 - 「행정안전부, 한국지능정보사회진흥원 주관」 2022년 데이터 청년인재 양성사업  한국사회보장정보원 데이터개방부 일경험 수련생 수료 (2022.09.05 ~ 2023.02.28.)
