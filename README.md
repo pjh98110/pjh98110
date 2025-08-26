@@ -19,7 +19,7 @@ header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100
 - 📞 
 
 ## 🎓 Completion of Education
-- 「LG AI Research」LG Aimers 7기 (2025.07.01. ~ 진행중)
+- 「LG AI Research」LG Aimers 7기 (2025.07.01. ~ 2025.08.25.)
 - 「Google」 구글 머신러닝 부트캠프 2024 (2024.06.28. ~ 2024.10.04.)
 - 「멀티캠퍼스」 금융&마케팅데이터분석취업캠프 수료 (2023.04.24. ~ 2023.10.06.)
 - 「행정안전부, 한국지능정보사회진흥원 주관」 2022년 데이터 청년인재 양성사업  한국사회보장정보원 데이터개방부 일경험 수련생 수료 (2022.09.05 ~ 2023.02.28.)
@@ -35,6 +35,11 @@ header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100
 - Microsoft Office Specialist Master (2018.06.15.)
 
 ## 🏆 Prize(수상내역)
+- **주최기관**: 통계청, 한국통계진흥원
+  - **공모전명**: 2025년 통계데이터 활용대회
+  - **공모기간**: 2025.04.14.~2025.07.02.
+  - **분석내용**: 빈집 발생의 다차원적 진단과 관리 전략: ESG 중심으로
+  - **공모결과**: **최우수상🏆 (2등, 통계청장상, 2025.08)**
 - **주최기관**: 산업통상자원부, 대한상공회의소 등
   - **공모전명**: 2024년 RETAIL DATA FESTA(제3회 유통데이터 활용 경진대회)
   - **공모기간**: 2024.09.19. ~ 2024.10.18.
@@ -72,6 +77,7 @@ header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100
   - **공모결과**: **최우수상🏆 (2등, NIA 원장상, 2022.12)**
 
 ## 🛠 프로젝트 목록
+- **빈집 발생의 다차원적 진단과 관리 전략: ESG 중심으로(최우수상🏆, 통계청장상)**
 - **생성형 AI 기반 간편식(HMR) 추천 플랫폼(우수상🏆, KEA 회장상)**
 - **Toxic Comment Classification Using Fine-Tuned Gemma2 Model**
 - **[WSCE 2024] COMPAS 국토도시 데이터 분석대전**
