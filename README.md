@@ -1,5 +1,4 @@
-<img width="60" height="49" alt="image" src="https://github.com/user-attachments/assets/bc9019a2-e17d-4891-9338-1f3e02095adb" />![
-header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=포트폴리오%20소개&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=포트폴리오%20소개&fontSize=35)
 
 
 ## 👨‍💻 Data Scientist & Data Analyst
