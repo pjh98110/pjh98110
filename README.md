@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=포트폴리오%20소개&fontSize=35)
 
+## 깃허브 포트폴리오 링크: https://pjh98110.github.io
 
 ## 👨‍💻 Data Scientist & Data Analyst
 안녕하세요, 저는 빠른 학습으로 성과를 가져오는 데이터 분석가 박종현입니다.
